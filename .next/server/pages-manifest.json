@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/about": "pages/about.js",
+  "/ai-employees": "pages/ai-employees.js",
+  "/api/ai-employees": "pages/api/ai-employees.js",
+  "/api/contact": "pages/api/contact.js",
+  "/api/contact/submit-contact-form": "pages/api/contact/submit-contact-form.js",
+  "/api/pricing": "pages/api/pricing.js",
+  "/contact": "pages/contact.js",
+  "/": "pages/index.js",
+  "/pricing": "pages/pricing.js",
+  "/_document": "pages/_document.js"
+}
